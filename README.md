@@ -6,7 +6,7 @@ Valige igast teemast üks javascripti teek (library) ja pange nendest kokku näi
 Teha võib ka mitmekesi tiimis (max 3 inimest) - tiimiliikmete nimed peavad olema toodud välja veebilehel.
 Näidislehe link saata emailile: kirsipuutauri@gmail.com
 
-Tähtaeg: 19.03.2026 kell 18:00
+Tähtaeg: 19.03.2026 kell 20:00
 
 Iga teegi kasutus annab 2 punkti + tunnis osalemine 2 punkti. Kokku võimalik saada 10 punkti. 
 

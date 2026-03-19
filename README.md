@@ -1,5 +1,7 @@
 # 7-tund
 
+Töö eesmärgiks on see, et tulevikus oskakiste otsida erinevate teekide dokumentatsioonist, kuidas neid tööle saada ja kuidas need töötavad. Dokumentatsioonist aru saamine ja sellest otsimine tuleb arendamisel ülimalt tihti kasuks.
+
 Valige igast teemast üks javascripti teek (library) ja pange nendest kokku näidisleht. Kokku peab olema lehel kasutatud vähemalt 4 javascripti teeki ja nende efektid/funktsionaalsus peavad olema arusaadavalt kasutatud.
 Teha võib ka mitmekesi tiimis (max 3 inimest) - tiimiliikmete nimed peavad olema toodud välja veebilehel.
 Näidislehe link saata emailile: kirsipuutauri@gmail.com

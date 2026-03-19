@@ -4,9 +4,9 @@ Valige igast teemast üks javascripti teek (library) ja pange nendest kokku näi
 Teha võib ka mitmekesi tiimis (max 3 inimest) - tiimiliikmete nimed peavad olema toodud välja veebilehel.
 Näidislehe link saata emailile: kirsipuutauri@gmail.com
 
-###Tähtaeg: 19.03.2026 kell 18:00
+Tähtaeg: 19.03.2026 kell 18:00
 
-
+ 
 ## Data Visualization
 
 1. D3.js — The most powerful data visualization library in JavaScript, built on SVG for infinitely customizable charts, graphs, and maps. It gives developers complete control over every visual element, making it ideal for complex, bespoke data projects. D3 is the gold standard for data journalists, scientists, and anyone who needs pixel-perfect visual storytelling.

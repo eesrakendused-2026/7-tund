@@ -8,6 +8,8 @@ Näidislehe link saata emailile: kirsipuutauri@gmail.com
 
 Tähtaeg: 19.03.2026 kell 18:00
 
+Iga teegi kasutus annab 2 punkti + tunnis osalemine 2 punkti. Kokku võimalik saada 10 punkti. 
+
  
 ## Data Visualization
 
